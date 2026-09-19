@@ -1,4 +1,4 @@
-
+B站链接https://www.bilibili.com/video/BV1mjem6iEBU/?vd_source=a6d77b1db78249bff6c7d3ed4df211c6
 # 课程表转换工具
 
 把 WakeUp 课程表模板整理成**可批量导入的 CSV** 的单文件脚本。
